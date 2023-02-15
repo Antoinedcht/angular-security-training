@@ -1,3 +1,5 @@
+package com.worldline.bookstore.service.util;
+
 import org.apache.commons.lang3.RandomStringUtils;
 
 import java.security.SecureRandom;
