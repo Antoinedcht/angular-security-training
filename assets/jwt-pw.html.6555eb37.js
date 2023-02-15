@@ -1,0 +1,1 @@
+const t={key:"v-6cf6fdc5",path:"/common-threats/jwt/jwt-pw.html",title:"1.6 JWT Practical Work",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1676472945e3,contributors:[{name:"Antoinedcht",email:"90462146+Antoinedcht@users.noreply.github.com",commits:1}]},filePathRelative:"common-threats/jwt/jwt-pw.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-4cca3bd6",path:"/common-threats/ssti/ssti-defense.html",title:"5.2 SSTI Defense",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1676472945e3,contributors:[{name:"Antoinedcht",email:"90462146+Antoinedcht@users.noreply.github.com",commits:1}]},filePathRelative:"common-threats/ssti/ssti-defense.md"};export{e as data};

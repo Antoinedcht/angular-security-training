@@ -1,0 +1,1 @@
+const t={key:"v-bfd79932",path:"/common-threats/xss/xss-pw.html",title:"3.5 XSS Practical Work",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1676472945e3,contributors:[{name:"Antoinedcht",email:"90462146+Antoinedcht@users.noreply.github.com",commits:1}]},filePathRelative:"common-threats/xss/xss-pw.md"};export{t as data};
